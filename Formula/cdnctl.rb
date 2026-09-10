@@ -1,8 +1,8 @@
 class Cdnctl < Formula
   desc "Official CLI for cdn.com.tr: CDN cache purge, container apps, object storage"
   homepage "https://cdn.com.tr"
-  url "https://github.com/mediatriple/cdnctl/archive/refs/tags/v0.27.0.tar.gz"
-  sha256 "0c8393f113de41d11602529bbd7ff23247b46b6f4651299e0b79f2753c8583ab"
+  url "https://github.com/mediatriple/cdnctl/archive/refs/tags/v0.28.0.tar.gz"
+  sha256 "4ec53786766926df2431e59bc68d08b2fbcedd07035525b6dcd71ecf80e57b69"
   license "MIT"
   head "https://github.com/mediatriple/cdnctl.git", branch: "main"
 
